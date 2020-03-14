@@ -13,7 +13,7 @@
 ## Result
 1. Achieved 91.22% accuracy in 15 epochs.
 2. Used our own library.
-3. ResNet model is copied to our "eva4models" file from [this link](https://github.com/kuangliu/pytorch-cifar).
+3. WE used our previous library.Only models "eva4models" file is updated.ResNet model is copied to our "eva4models" file from [this link](https://github.com/kuangliu/pytorch-cifar).
 
 ## Epoch logs
 Epochs 100% 15/15 [07:53<00:00, 31.52s/it]
